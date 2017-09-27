@@ -1,0 +1,11 @@
+{
+  "name": "loginclient",
+  "version": "1.0.0",
+  "description": "Client application for Login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suma Srija Kommuri",
+  "license": "ISC"
+}
